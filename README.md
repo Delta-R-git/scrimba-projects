@@ -12,6 +12,7 @@
 
 | Project | Live Demo |
 |---------|-----------|
+| Home-Town | [View Demo](https://delta-r-git.github.io/scrimba-projects/Home-Town/) |
 
 ## 📁 Projects
 
