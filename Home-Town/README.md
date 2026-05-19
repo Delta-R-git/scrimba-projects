@@ -23,6 +23,7 @@
 git clone https://github.com/Delta-R-git/scrimba-projects/Home-Town.git
 cd scrimba-projects/Home-Town
 open index.html
+```
 
 ## 🙏 Acknowledgments
 
