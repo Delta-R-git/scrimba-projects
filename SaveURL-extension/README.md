@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/Delta-R-git/scrimba-projects?style=flat-square)](https://github.com/Delta-R-git/scrimba-projects/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)](#)
 
 > A lightweight browser extension to save and manage URLs locally.
 
