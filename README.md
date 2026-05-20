@@ -12,7 +12,12 @@
 
 | Project | Live Demo |
 |---------|-----------|
-| Home-Town | [View Demo](https://delta-r-git.github.io/scrimba-projects/Home-Town/) |
+| Home-Town | [View Project](https://delta-r-git.github.io/scrimba-projects/Home-Town/) |
+| Score-Board | [View Project](https://delta-r-git.github.io/scrimba-projects/Score-Board/) |
+| Black-Jack | [View Project](https://delta-r-git.github.io/scrimba-projects/Black-Jack/) |
+| Password-Generator | [View Project](https://delta-r-git.github.io/scrimba-projects/Password-Generator/) |
+| SaveURL-extension | [View Project](https://delta-r-git.github.io/scrimba-projects/SaveURL-extension/) |
+| Unit-converter | [View Project](https://delta-r-git.github.io/scrimba-projects/Unit-converter/) |
 
 ## 📁 Projects
 
