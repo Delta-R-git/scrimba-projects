@@ -1,31 +1,40 @@
-# Project Name
+# Home-Town
 
-> A simple practice webpage about a hometown
+[![GitHub license](https://img.shields.io/github/license/Delta-R-git/scrimba-projects?style=flat-square)](https://github.com/Delta-R-git/scrimba-projects/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)](#)
 
-## 🚀 Live Demo
+    A simple practice home-town webpage
 
-[View Demo](https://delta-r-git.github.io/scrimba-projects/Home-Town/)
+---
 
-## 📝 About
+## 🔗 Live Demo
 
-- Images used are provided in scrimba
+👉 [View Project](https://delta-r-git.github.io/scrimba-projects/Home-Town/)
 
+---
 
 ## 🛠️ Built With
 
-- HTML
-- CSS
-- JavaScript
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🙏 Acknowledgments
+
+- [Scrimba](https://scrimba.com) — Shoutout to the platform
+- Still learning — open to feedback and suggestions
 
 ## 📂 How to Run Locally
 
 ```bash
-git clone https://github.com/Delta-R-git/scrimba-projects/Home-Town.git
+# Clone the repository
+git clone [https://delta-r-git.github.io/scrimba-projects/Home-Town.git](https://delta-r-git.github.io/scrimba-projects/Home-Town.git)
+
+# Navigate to the project directory
 cd scrimba-projects/Home-Town
+
+# Open index.html in your default browser
 open index.html
 ```
-
-## 🙏 Acknowledgments
-
-- [Scrimba](https://scrimba.com) — for making learning fun and interactive
-- Still learning — open to feedback and suggestions
