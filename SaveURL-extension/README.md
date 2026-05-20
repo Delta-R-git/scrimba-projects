@@ -8,12 +8,6 @@
 
 ---
 
-## 🔗 Live Demo
-
-👉 [View Project Live](https://delta-r-git.github.io/scrimba-projects/SaveURL-extension/)
-
----
-
 ## 📝Features
 - ✏️ **Manual input** – Type or paste any URL to save
 - 📌 **Save current tab** – SAVE TAB saves the active tab's URL
