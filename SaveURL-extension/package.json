@@ -1,5 +1,5 @@
 {
-  "name": "Scrim-s01uaas",
+  "name": "SaveURL extension",
   "description": "https://scrimba.com/fullstack-path-c0fullstack/~09h",
   "scripts": {
     "start": "vite",
