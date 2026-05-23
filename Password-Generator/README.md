@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)](#)
 
-> A simple webpage of a Password Generator for strong passwords
+> A simple webpage of a Password Generator for strong random passwords
 
 ---
 
