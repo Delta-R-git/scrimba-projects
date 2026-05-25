@@ -1,4 +1,4 @@
-# Password Generator
+# Portfolio
 
 [![GitHub license](https://img.shields.io/github/license/Delta-R-git/scrimba-projects?style=flat-square)](https://github.com/Delta-R-git/scrimba-projects/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
