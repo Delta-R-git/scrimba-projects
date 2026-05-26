@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'ssp';
+    src: url('fonts/SourceSansPro-Regular.ttf');
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #C6C6C6;
+    font-family: ssp;
+    zoom: 1.25;
+}
+
+.container {
+    width: 375px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: #FFFFFF;
+    margin-bottom: 2px;
+}
+
+header .icon {
+    margin-top: 11px;
+    margin-bottom: 11px;
+    margin-left: 164px;
+}
+
+section {
+    background-color: #FFFFFF;
+    padding: 0;
+    margin-bottom: 25px;
+}
+
+.logo {
+    width: 127px;
+    height: 60px;
+    margin: 0 14px;
+}
+
+.icon {
+    width: 34px;
+    height: 34px;
+    border-radius: 50px;
+}
+
+.creator {
+    display: flex;
+}
+
+.creator .icon {
+    margin: 10px;
+}
+
+.creator div {
+    margin: auto 0;
+}
+
+.creator h2, .creator p {
+    display: block;
+    margin: 0 0 13px 13px ;
+    font-size: 13px;
+}
+
+.creator h2 {
+    margin: 0;
+    font-size: 13px;
+}
+
+.creator p {
+    margin: 0;
+    font-size: 12px;
+}
+
+.post {
+    width: 375px;
+    height: 375px;
+}
+
+.action {
+    margin: 18px 0px 6px 10px;
+}
+
+.action img {
+    width: 24px;
+    height: 24px;
+    margin: 0px 10px 0px 0px;  
+}
+
+.action img:hover {
+    opacity: 50%;
+}
+
+.reaction h3, .reaction p {
+    margin: 0;
+    padding: 0 0 13px 13px ;
+    font-size: 13px;
+}
+
+span {
+    font-weight: bold;
+}
