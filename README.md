@@ -20,6 +20,7 @@
 | Unit-converter | [View Project](https://delta-r-git.github.io/scrimba-projects/Unit-converter/) |
 | NFT-Site | [View Project](https://delta-r-git.github.io/scrimba-projects/NFT-site/) |
 | Portfolio | [View Project](https://delta-r-git.github.io/scrimba-projects/Portfolio/) |
+| Oldagram | [View Project](https://delta-r-git.github.io/scrimba-projects/Oldagram/) |
 
 ## 📁 Projects
 
