@@ -1,4 +1,4 @@
-# Annoying-Cookie-Consent
+# Annoying-cookie-consent
 
 [![GitHub license](https://img.shields.io/github/license/Delta-R-git/scrimba-projects?style=flat-square)](https://github.com/Delta-R-git/scrimba-projects/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -10,7 +10,7 @@
 
 ## 🔗 Live Demo
 
-👉 [View Project Live](https://delta-r-git.github.io/scrimba-projects/Annoying-Cookie-Consent/)
+👉 [View Project Live](https://delta-r-git.github.io/scrimba-projects/Annoying-cookie-consent/)
 
 ---
 
@@ -37,10 +37,10 @@
 
 ```bash
 # Clone the repository
-git clone [https://delta-r-git.github.io/scrimba-projects/Annoying-Cookie-Consent.git](https://delta-r-git.github.io/scrimba-projects/Annoying-Cookie-Consent.git)
+git clone [https://delta-r-git.github.io/scrimba-projects/Annoying-cookie-consent.git](https://delta-r-git.github.io/scrimba-projects/Annoying-cookie-consent.git)
 
 # Navigate to the project directory
-cd scrimba-projects/Annoying-Cookie-Consent
+cd scrimba-projects/Annoying-cookie-consent
 
 # Open index.html in your default browser
 open index.html
