@@ -23,7 +23,7 @@
 | Oldagram | [View Project](https://delta-r-git.github.io/scrimba-projects/Oldagram/) |
 | CoworkingSpace-site | [View Project](https://delta-r-git.github.io/scrimba-projects/CoworkingSpace-site/) |
 | Nasa-login-form | [View Project](https://delta-r-git.github.io/scrimba-projects/Nasa-login-form/) |
-| Annoying-Cookie-Consent | [View Project](https://delta-r-git.github.io/scrimba-projects/Annoying-Cookie-Consent/) |
+| Annoying-cookie-consent | [View Project](https://delta-r-git.github.io/scrimba-projects/Annoying-cookie-consent/) |
 
 ## 📁 Projects
 
