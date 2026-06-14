@@ -12,18 +12,18 @@
 
 | Project | Live Demo |
 |---------|-----------|
-| Home-Town | [View Project](https://delta-r-git.github.io/scrimba-projects/Home-Town/) |
-| Score-Board | [View Project](https://delta-r-git.github.io/scrimba-projects/Score-Board/) |
-| Black-Jack | [View Project](https://delta-r-git.github.io/scrimba-projects/Black-Jack/) |
-| Password-Generator | [View Project](https://delta-r-git.github.io/scrimba-projects/Password-Generator/) |
-| SaveURL-extension | [View Project](https://delta-r-git.github.io/scrimba-projects/SaveURL-extension/) |
-| Unit-converter | [View Project](https://delta-r-git.github.io/scrimba-projects/Unit-converter/) |
-| NFT-Site | [View Project](https://delta-r-git.github.io/scrimba-projects/NFT-site/) |
-| Portfolio | [View Project](https://delta-r-git.github.io/scrimba-projects/Portfolio/) |
-| Oldagram | [View Project](https://delta-r-git.github.io/scrimba-projects/Oldagram/) |
-| CoworkingSpace-site | [View Project](https://delta-r-git.github.io/scrimba-projects/CoworkingSpace-site/) |
-| Nasa-login-form | [View Project](https://delta-r-git.github.io/scrimba-projects/Nasa-login-form/) |
-| Annoying-cookie-consent | [View Project](https://delta-r-git.github.io/scrimba-projects/Annoying-cookie-consent/) |
+| Home-Town | [View Project](https://scrimba-projects-deltar.vercel.app/Home-Town/) |
+| Score-Board | [View Project](https://scrimba-projects-deltar.vercel.app/Score-Board/) |
+| Black-Jack | [View Project](https://scrimba-projects-deltar.vercel.app/Black-Jack/) |
+| Password-Generator | [View Project](https://scrimba-projects-deltar.vercel.app/Password-Generator/) |
+| SaveURL-extension | [View Project](https://scrimba-projects-deltar.vercel.app/SaveURL-extension/) |
+| Unit-converter | [View Project](https://scrimba-projects-deltar.vercel.app/Unit-converter/) |
+| NFT-Site | [View Project](https://scrimba-projects-deltar.vercel.app/NFT-site/) |
+| Portfolio | [View Project](https://scrimba-projects-deltar.vercel.app/Portfolio/) |
+| Oldagram | [View Project](https://scrimba-projects-deltar.vercel.app/Oldagram/) |
+| CoworkingSpace-site | [View Project](https://scrimba-projects-deltar.vercel.app/CoworkingSpace-site/) |
+| Nasa-login-form | [View Project](https://scrimba-projects-deltar.vercel.app/Nasa-login-form/) |
+| Annoying-cookie-consent | [View Project](https://scrimba-projects-deltar.vercel.app/Annoying-cookie-consent/) |
 
 ## 📁 Projects
 
