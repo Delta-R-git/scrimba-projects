@@ -10,7 +10,7 @@
 
 ## 🔗 Live Demo
 
-👉 [View Project Live](https://delta-r-git.github.io/scrimba-projects/Cat-Meme-Picker/)
+👉 [View Project Live](https://scrimba-projects-deltar.vercel.app/Cat-Meme-Picker/)
 
 ---
 
