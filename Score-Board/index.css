@@ -1,0 +1,56 @@
+body {
+    color: #EEEEEE;
+    margin: 0;
+    background-color: #1B244A;
+    zoom: 1.75;
+}
+
+.head {
+    margin-bottom: 15px;
+}
+
+.head-h {
+    padding: 0px 9px;
+    margin-bottom: 15px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    font: 40px verdana;
+}
+
+.score {
+    font: 90px Cursed Timer ULiL;
+    text-align: center;
+    color: #F94F6D;     
+    background-color: #080001;   
+    padding: 15px 0px 0px 0px;
+    border: 0px 1px;
+    border-radius: 5px;
+    margin: 0px;
+    
+}
+
+.btn-section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+
+.btn {
+    background-color: #1B244A;
+    border: 2px solid #9AABD8;
+    border-radius: 3px;
+    color: #9AABD8;
+    padding: 10px 10px;
+    font: 20px Cursed Timer ULiL;
+}
+
+.btn:hover {
+    background-color: #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 3px;
+    color: #1B244A;
+}
