@@ -12,8 +12,37 @@
                 <p>The best burgers and pizzas in town.</p>
             </div>
         </header>
-	<script src="index.js"></script>
+        <main>
+            <section class="menu" id="menu">
+
+            </section>
+            <section class="order-section">
+                <div class="order-list">    
+                    <h2 class="order-head">Your Order</h2>
+                    <div class="order">
+                        <h2>Pizza</h2><span>remove</span>
+                        <h3>$14</h3>
+                    </div> 
+                    <div class="order">
+                        <h2>Beer</h2><span>remove</span>
+                        <h3>$12</h3>
+                    </div>
+                </div>
+                <div class="order total">
+                    <h2>Total Price:</h2>
+                    <h3>$26</h3>
+                </div>
+                <button>Complete order</button>
+            </section>
+        </main>
+	<script src="index.js" type="module"></script>
     </body>
 </html>
 
-testing commit
+<section class="modal">
+    <h2>Enter card details</h2>
+    <input type="text" placeholder="Enter your name" class="modal-input">
+    <input type="text" placeholder="Enter card number" class="modal-input">
+    <input type="text" placeholder="Enter CVV" class="modal-input">
+    <button>Pay</button>
+</section>
