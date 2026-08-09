@@ -26,6 +26,7 @@
 | Annoying-cookie-consent | [View Project](https://scrimba-projects-deltar.vercel.app/Annoying-cookie-consent/) |
 | Cat-Meme-Picker | [View Project](https://scrimba-projects-deltar.vercel.app/Cat-Meme-Picker/) |
 | Twimba-an-X-clone | [View Project](https://scrimba-projects-deltar.vercel.app/Twimba-an-X-clone/) |
+| NFT-site-Responsive | [View Project](https://scrimba-projects-deltar.vercel.app/NFT-site-Responsive/) |
 ## 📁 Projects
 
 - *More coming as I learn...*
