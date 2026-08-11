@@ -31,6 +31,8 @@ nav {
 }
 
 .hero {
-    height: 100px;
-    background-image: url('images/article-image-hero.png');
+    height: 293px;
+    background-image: url('../images/article-image-hero.png');
+    background-size: cover;
+       background-position: center;
 }
