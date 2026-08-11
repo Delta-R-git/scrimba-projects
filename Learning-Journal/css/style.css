@@ -3,3 +3,34 @@ body {
     margin: 0;
     padding: 0;
 }
+
+header {
+    /* border: 1px dotted black; */
+    display: flex;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.875rem;
+    font-weight: 700;
+    color: #0E0E0E;
+    margin: auto 1.57em auto 1.57em;
+}
+
+header img {
+    width: 23px;
+    height: 23px;
+    margin: auto 0.28em auto 0;
+}
+
+nav {
+    display: flex;
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #090909;
+    gap: 1.83em;
+    margin: auto 0 auto auto;
+}
+
+.hero {
+    height: 100px;
+    background-image: url('images/article-image-hero.png');
+}
