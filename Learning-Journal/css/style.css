@@ -2,12 +2,11 @@ html,
 body {
     margin: 0;
     padding: 0;
+    font-family: "Source Sans 3", sans-serif;
 }
 
 header {
-    /* border: 1px dotted black; */
     display: flex;
-    font-family: "Roboto", sans-serif;
     font-size: 0.875rem;
     font-weight: 700;
     color: #0E0E0E;
@@ -20,9 +19,12 @@ header img {
     margin: auto 0.28em auto 0;
 }
 
+.headr-name {
+    font-family: "Roboto", sans-serif;
+}
+
 nav {
     display: flex;
-    font-family: "Source Sans 3", sans-serif;
     font-size: 0.75rem;
     font-weight: 600;
     color: #090909;
@@ -31,8 +33,26 @@ nav {
 }
 
 .hero {
+    display: flex;
     height: 293px;
     background-image: url('../images/article-image-hero.png');
     background-size: cover;
-       background-position: center;
+    background-position: center;
+    color: #fff;
+    padding: 1.563em 1.25em;
+}
+
+.hero div {
+    display: flex;
+    flex-direction: column;
+    margin-top: auto;
+    gap: 8px;
+}
+
+.hero div * {
+    margin:0;
+}
+
+.blog img {
+    margin: 1.25em;
 }
