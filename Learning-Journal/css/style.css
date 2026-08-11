@@ -1,3 +1,7 @@
+*,::before,::after {
+    box-sizing: border-box;
+}
+
 html, 
 body {
     margin: 0;
@@ -53,6 +57,11 @@ nav {
     margin:0;
 }
 
-.blog img {
+.blog {
     margin: 1.25em;
+}
+
+.blog img {
+    height: 232px;
+    width: 100%;
 }
