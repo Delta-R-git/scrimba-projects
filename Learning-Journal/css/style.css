@@ -11,8 +11,6 @@ body {
 
 header {
     display: flex;
-    font-size: 0.875rem;
-    font-weight: 700;
     color: #0E0E0E;
     margin: auto 1.57em auto 1.57em;
 }
@@ -24,6 +22,8 @@ header img {
 }
 
 .headr-name {
+    font-size: 0.875rem;
+    font-weight: 700;
     font-family: "Roboto", sans-serif;
 }
 
@@ -58,10 +58,62 @@ nav {
 }
 
 .blog {
-    margin: 1.25em;
+    display: grid;
+    grid-template: repeat(3,1fr) / 1fr;
+    margin: 2.125em 1.25em 1.25em 1.25em;
+    gap: 2.563em;
 }
 
-.blog img {
+.blog-image {
     height: 232px;
     width: 100%;
+    object-fit: cover;
+    border-radius: 3px;
+    margin-bottom: 0.875em;
+}
+
+.blog time {
+    font-size: 0.875rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: #141414;
+    margin: 0.375em 0;
+}
+
+.blog div p {
+    color: #505050;
+    margin: 0 px;
+}
+
+.more {
+    text-decoration: underline;
+    text-align: center;
+    margin: 0.438em 0 2.688em 0;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    height: 105px;
+    background-color: #202020;
+    font-size: 0.75em;
+    font-weight: bold;
+    color: #ECECEC;
+    justify-content: center;
+    align-items: center;
+    gap: 0.25em;
+}
+
+footer p {
+    font-weight: 400;
+    color: #D7D7D7;
+}
+
+footer * {
+    margin: 0;
 }
