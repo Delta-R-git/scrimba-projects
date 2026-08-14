@@ -63,7 +63,7 @@ nav {
 
 .blog {
     display: grid;
-    grid-template: repeat(3,1fr) / 1fr;
+    grid-template: repeat(6, 1fr) / 1fr;
     margin: 2.125em 1.25em 1.25em 1.25em;
     gap: 2.563em;
 }
@@ -105,7 +105,7 @@ footer {
     flex-direction: column;
     height: 105px;
     background-color: #202020;
-    font-size: 0.75em;
+    font-size: 0.75rem;
     font-weight: bold;
     color: #ECECEC;
     justify-content: center;
@@ -122,7 +122,7 @@ footer * {
     margin: 0;
 }
 
-/* ABOUT */
+/* ABOUT & HOME */
 
 .info {
     margin: 2.125em 1.25em 1.25em 1.25em;
@@ -130,7 +130,7 @@ footer * {
 }
 
 .info time {
-    font-size: 0.75em;
+    font-size: 0.75rem;
 }
 
 .info .blog-image {
@@ -146,6 +146,62 @@ footer * {
     width: 182px;
 }
 
+.abt-head {
+    font-size: 2.125rem;
+}
+
 .abt-subhead {
     margin-top: 3.125em;
+}
+
+/* HOVER */
+
+header h4:hover, header a:hover, .more:hover {
+    color: #303030;
+}
+
+@media (min-width: 600px) {
+        .blog {
+        grid-template: 1fr / repeat(2, 1fr);
+        gap: 2.875em 1.625em;
+
+    }
+}
+
+@media (min-width: 768px) {
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+
+    .blog {
+        grid-template: 1fr / repeat(3, 1fr);
+        gap: 2.875em 1.625em;
+    }
+
+    .hero {
+        height: 488px;
+    }
+
+    .hero div {
+        max-width: 60%;
+    }
+
+    header, .blog {
+        margin-left: 53px;
+        margin-right: 53px;
+    }
+
+    .hero div, .info div {
+        margin-left: 33px;
+        margin-right: 33px;
+    }
+
+    .info h1, .abt-head {
+        font-size: 2.25rem;
+    }
+
+    .info div :not(img) {
+        margin-left: 68px;
+        margin-right: 68px;
+    }
 }
