@@ -11,8 +11,12 @@ body {
 
 header {
     display: flex;
-    color: #0E0E0E;
     margin: auto 1.57em auto 1.57em;
+}
+
+header a {
+    color: #0E0E0E;
+    text-decoration: none;
 }
 
 header img {
@@ -21,8 +25,8 @@ header img {
     margin: auto 0.28em auto 0;
 }
 
-.headr-name {
-    font-size: 0.875rem;
+.header-name {
+    font-size: 0.844rem;
     font-weight: 700;
     font-family: "Roboto", sans-serif;
 }
@@ -50,7 +54,7 @@ nav {
     display: flex;
     flex-direction: column;
     margin-top: auto;
-    gap: 8px;
+    gap: 0.5em;
 }
 
 .hero div * {
@@ -85,7 +89,7 @@ h2 {
 
 .blog div p {
     color: #505050;
-    margin: 0 px;
+    margin: 0;
 }
 
 .more {
@@ -116,4 +120,32 @@ footer p {
 
 footer * {
     margin: 0;
+}
+
+/* ABOUT */
+
+.info {
+    margin: 2.125em 1.25em 1.25em 1.25em;
+    color: #151515;
+}
+
+.info time {
+    font-size: 0.75em;
+}
+
+.info .blog-image {
+    height: 191px;
+}
+
+.recent-heading {
+    text-align: center;
+    margin: 3.188em 0 0.625em;
+}
+
+.avatar {
+    width: 182px;
+}
+
+.abt-subhead {
+    margin-top: 3.125em;
 }
