@@ -29,6 +29,7 @@
 | NFT-site-Responsive | [View Project](https://scrimba-projects-deltar.vercel.app/NFT-site-Responsive/) |
 | Scrimbafy-splash-page | [View Project](https://scrimba-projects-deltar.vercel.app/Scrimbafy-splash-page/) |
 | SciStream | [View Project](https://scrimba-projects-deltar.vercel.app/SciStream/) |
+| Learning-Journal | [View Project](https://scrimba-projects-deltar.vercel.app/Learning-Journal/) |
 ## 📁 Projects
 
 - *More coming as I learn...*
