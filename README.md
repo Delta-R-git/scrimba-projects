@@ -31,6 +31,7 @@
 | SciStream | [View Project](https://scrimba-projects-deltar.vercel.app/SciStream/) |
 | Learning-Journal | [View Project](https://scrimba-projects-deltar.vercel.app/Learning-Journal/) |
 | BoredBot | [View Project](https://scrimba-projects-deltar.vercel.app/BoredBot/) |
+| BlogSpace | [View Project](https://scrimba-projects-deltar.vercel.app/BlogSpace/) |
 ## 📁 Projects
 
 - *More coming as I learn...*
