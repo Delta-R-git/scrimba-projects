@@ -30,6 +30,7 @@
 | Scrimbafy-splash-page | [View Project](https://scrimba-projects-deltar.vercel.app/Scrimbafy-splash-page/) |
 | SciStream | [View Project](https://scrimba-projects-deltar.vercel.app/SciStream/) |
 | Learning-Journal | [View Project](https://scrimba-projects-deltar.vercel.app/Learning-Journal/) |
+| BoredBot | [View Project](https://scrimba-projects-deltar.vercel.app/BoredBot/) |
 ## 📁 Projects
 
 - *More coming as I learn...*
