@@ -1,0 +1,102 @@
+html, body {
+    font-family: "Inter", sans-serif;
+    width: 550px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+html {
+    background-color: aliceblue;
+}
+
+body {
+    background-color: #fff;
+    padding: 0 10px;
+}
+
+* {
+    /* border: 1px dotted red; */
+}
+
+header {
+    position: relative;
+    display: flex;
+    padding: 24px 15px;
+    gap: 12px;
+    box-shadow: 0px 10px 15px -20px black;
+    z-index: 1;
+}
+
+input, select, button {
+    height: 42px;
+}
+
+select, button {
+    border-radius: 6px;
+    border: 1px solid #D1D5DB;
+}
+
+input {
+    border: none;
+    width: 61px;
+}
+
+select {
+    font-size: 16px;
+    color: #111827;
+    width: 312px;
+}
+
+/* option {
+    border-radius: 6px;
+    border: 2px solid #333; border-radius: 6px;
+} */
+
+button {
+    font-weight: 500;
+    font-size: 12px;
+    padding: 11px 13px;
+    background-color: #fff;
+}
+
+.colors-grid {
+    display: grid;
+    grid-template: 1fr / repeat(5, 1fr);
+}
+
+.color {
+    height: 460px;
+    position: relative; 
+}
+
+.color-code {
+    /* border: 1px dotted black; */
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #fff;
+    color: #2B283A;
+    font-size: 12px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding: 11px 0;
+}
+
+.c1 {
+    background-color: #F55A5A
+;
+} 
+.c2 {
+    background-color: #2B283A;
+} 
+.c3 {
+    background-color: #FBF3AB;
+} 
+.c4 {
+    background-color: #AAD1B6;
+} 
+.c5 {
+    background-color: #A626D3;
+} 
