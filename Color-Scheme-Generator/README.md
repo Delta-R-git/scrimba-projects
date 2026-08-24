@@ -1,4 +1,4 @@
-# Color-Scheme-Picker
+# Color-Scheme-Generator
 
 [![GitHub license](https://img.shields.io/github/license/Delta-R-git/scrimba-projects?style=flat-square)](https://github.com/Delta-R-git/scrimba-projects/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -9,13 +9,13 @@
 
 ## 🔗 Live Demo
 
-👉 [View Project Live](https://scrimba-projects-deltar.vercel.app/Color-Scheme-Picker/)
+👉 [View Project Live](https://scrimba-projects-deltar.vercel.app/Color-Scheme-Generator/)
 
 ---
 
 ## 📝 About
 
-* **Interactive Color Picker:** Choose any base color using a native color input.
+* **Interactive Color Generator:** Choose any base color using a native color input.
 * **Multiple Palette Modes:** Select from various harmony options including Monochrome, Analogic, Complement, Triad, and more.
 * **Live API Integration:** Fetches accurate color data dynamically via `fetch`.
 * **Hex Code Display:** Instantly view the HEX code for each generated color swatch.
@@ -39,10 +39,10 @@
 
 ```bash
 # Clone the repository
-git clone [https://delta-r-git.github.io/scrimba-projects/Color-Scheme-Picker.git](https://delta-r-git.github.io/scrimba-projects/Color-Scheme-Picker.git)
+git clone [https://delta-r-git.github.io/scrimba-projects/Color-Scheme-Generator.git](https://delta-r-git.github.io/scrimba-projects/Color-Scheme-Generator.git)
 
 # Navigate to the project directory
-cd scrimba-projects/Color-Scheme-Picker
+cd scrimba-projects/Color-Scheme-Generator
 
 # Open index.html in your default browser
 open index.html

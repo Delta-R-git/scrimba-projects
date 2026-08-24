@@ -32,7 +32,7 @@
 | Learning-Journal | [View Project](https://scrimba-projects-deltar.vercel.app/Learning-Journal/) |
 | BoredBot | [View Project](https://scrimba-projects-deltar.vercel.app/BoredBot/) |
 | BlogSpace | [View Project](https://scrimba-projects-deltar.vercel.app/BlogSpace/) |
-| Color-Scheme-Picker | [View Project](https://scrimba-projects-deltar.vercel.app/Color-Scheme-Picker/) |
+| Color-Scheme-Generator | [View Project](https://scrimba-projects-deltar.vercel.app/Color-Scheme-Generator/) |
 ## 📁 Projects
 
 - *More coming as I learn...*
