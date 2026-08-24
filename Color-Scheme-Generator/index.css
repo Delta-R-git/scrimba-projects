@@ -14,10 +14,6 @@ body {
     padding: 0 10px;
 }
 
-* {
-    /* border: 1px dotted red; */
-}
-
 header {
     position: relative;
     display: flex;
@@ -70,7 +66,6 @@ button {
 }
 
 .color-code {
-    /* border: 1px dotted black; */
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -85,8 +80,7 @@ button {
 }
 
 #c1 {
-    background-color: #F55A5A
-;
+    background-color: #F55A5A;
 } 
 #c2 {
     background-color: #2B283A;
