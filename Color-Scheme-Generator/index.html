@@ -7,8 +7,8 @@
     </head>
     <body>
         <header>
-            <input type="color">
-            <select>
+            <input type="color" id="color-pick">
+            <select id="mode">
                 <option>Monochrome</option>
                 <option>Monochrome-dark</option>
                 <option>Monochrome-light</option>
@@ -17,17 +17,16 @@
                 <option>Analogic-complement</option>
                 <option>Triad</option>
             </select>
-            <button>Get color scheme</button>
+            <button id="btn">Get color scheme</button>
         </header>
         <main>
             <div class="colors-grid">
-                <div class="color c1"><div class="color-code">#F55A5A</div></div>
-                <div class="color c2"><div class="color-code">#2B283A</div></div>
-                <div class="color c3"><div class="color-code">#FBF3AB</div></div>
-                <div class="color c4"><div class="color-code">#AAD1B6</div></div>
-                <div class="color c5"><div class="color-code">#A626D3</div></div>
+                <div class="color" id="c1"><span class="color-code" id="hex1">#F55A5A</span></div>
+                <div class="color" id="c2"><span class="color-code" id="hex2">#2B283A</span></div>
+                <div class="color" id="c3"><span class="color-code" id="hex3">#FBF3AB</span></div>
+                <div class="color" id="c4"><span class="color-code" id="hex4">#AAD1B6</span></div>
+                <div class="color" id="c5"><span class="color-code" id="hex5">#A626D3</span></div>
             </div>
-
         </main>
         <script src="index.js"></script>
     </body>
