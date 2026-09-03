@@ -1,4 +1,4 @@
-# War-Card-game
+# War-card-game
 
 [![GitHub license](https://img.shields.io/github/license/Delta-R-git/scrimba-projects?style=flat-square)](https://github.com/Delta-R-git/scrimba-projects/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -9,7 +9,7 @@
 
 ## 🔗 Live Demo
 
-👉 [View Project Live](https://scrimba-projects-deltar.vercel.app/War-Card-game/)
+👉 [View Project Live](https://scrimba-projects-deltar.vercel.app/War-card-game/)
 
 ---
 
@@ -36,10 +36,10 @@ A classic card game built as a front-end learning project. It fetches a freshly 
 
 ```bash
 # Clone the repository
-git clone [https://delta-r-git.github.io/scrimba-projects/War-Card-game.git](https://delta-r-git.github.io/scrimba-projects/War-Card-game.git)
+git clone [https://delta-r-git.github.io/scrimba-projects/War-card-game.git](https://delta-r-git.github.io/scrimba-projects/War-card-game.git)
 
 # Navigate to the project directory
-cd scrimba-projects/War-Card-game
+cd scrimba-projects/War-card-game
 
 # Open index.html in your default browser
 open index.html
