@@ -33,6 +33,7 @@
 | BoredBot | [View Project](https://scrimba-projects-deltar.vercel.app/BoredBot/) |
 | BlogSpace | [View Project](https://scrimba-projects-deltar.vercel.app/BlogSpace/) |
 | Color-Scheme-Generator | [View Project](https://scrimba-projects-deltar.vercel.app/Color-Scheme-Generator/) |
+| War-Card-game | [View Project](https://scrimba-projects-deltar.vercel.app/War-Card-game/) |
 ## 📁 Projects
 
 - *More coming as I learn...*
