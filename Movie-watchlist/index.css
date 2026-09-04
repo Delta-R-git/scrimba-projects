@@ -104,6 +104,8 @@ main {
 
 .movies-placeholder {
     color: #2E2E2F;
+    /* border: 1px solid red; */
+    margin-top: 35vh;
 }
 
 .movies-placeholder p {
@@ -118,6 +120,7 @@ main {
 
 .nothing-placeholder {
     color: #787878;
+    max-width: 360px;
 }
 
 .add-movies {
@@ -135,7 +138,7 @@ main {
 .movies-list {
     /* border: 1px dotted cyan; */
     width: 100%;
-    min-height: 70vh; /*###*/
+    min-height: 70vh; 
 }
 
 
@@ -179,3 +182,5 @@ main {
 .movie h2 i {
     color:#fec654;
 }
+
+
