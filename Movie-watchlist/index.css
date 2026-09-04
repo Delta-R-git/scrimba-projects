@@ -86,6 +86,7 @@ main {
     display: flex;
     justify-content: center; /* Centers horizontally */
     align-items: center; 
+    /* border: 1px dotted red; */
 }
 
 .search-bar i {
@@ -113,6 +114,8 @@ main {
     font-size: 70px;
 }
 
+/* ---------------------- */
+
 .nothing-placeholder {
     color: #787878;
 }
@@ -125,4 +128,54 @@ main {
 
 .add-movies i {
     margin-right: 7px;
+}
+
+/* ------------- */
+
+.movies-list {
+    /* border: 1px dotted cyan; */
+    width: 100%;
+    min-height: 70vh; /*###*/
+}
+
+
+.movie {
+    display: flex;
+    /* border: 1px dotted red; */
+    border-bottom: 1.5px solid #2C2C2C;
+}
+
+.movie img {
+    height: 148px;
+    width: 100px;
+    margin: 22px 21px 21px 0;
+    border-radius: 2.5px;
+}
+
+.movie h2 {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 37px 0 11px 0;
+}
+
+.movie span {
+    font-size: 12px;
+    font-weight: 400;
+    margin-right: 15px;
+}
+
+.movie p {
+    color: #A5A5A5;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 8px 0 13px 0;
+    line-height: 20px;
+}
+
+.movie i {
+    margin: 0 5px;
+}
+
+.movie h2 i {
+    color:#fec654;
 }
