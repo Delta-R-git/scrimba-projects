@@ -6,19 +6,11 @@ html, body {
     color: #fff;
 }
 
-/* .container {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    } */
-    
     header {
     display: flex;
     background-image: url('img/head.png');
     background-color: black;
     height: 208px;
-    /* width: 550px; */
-    /* position: ; */
 }
 
 header h1 {
@@ -36,7 +28,6 @@ header a {
 }
 
 .search-bar {
-    /* border: 1px dotted red; */
     position: relative;
     left: 0;
     top: -19;
@@ -81,12 +72,9 @@ main {
     background-color: #121212;
     color: #fff;
     margin: auto;
-
-
     display: flex;
-    justify-content: center; /* Centers horizontally */
+    justify-content: center; 
     align-items: center; 
-    /* border: 1px dotted red; */
 }
 
 .search-bar i {
@@ -104,23 +92,16 @@ main {
 
 .movies-placeholder {
     color: #2E2E2F;
-    /* border: 1px solid red; */
     margin-top: 35vh;
 }
 
-.movies-placeholder p {
-    margin: 0;
-}
-
-.movies-placeholder i{
+.movies-placeholder .fa-film{
     font-size: 70px;
 }
 
-/* ---------------------- */
 
 .nothing-placeholder {
     color: #787878;
-    max-width: 360px;
 }
 
 .add-movies {
@@ -133,10 +114,7 @@ main {
     margin-right: 7px;
 }
 
-/* ------------- */
-
 .movies-list {
-    /* border: 1px dotted cyan; */
     width: 100%;
     min-height: 70vh; 
 }
@@ -144,13 +122,20 @@ main {
 
 .movie {
     display: flex;
-    /* border: 1px dotted red; */
+}
+
+.plus {
     border-bottom: 1.5px solid #2C2C2C;
+}
+
+.minus {
+    border-bottom: 1.5px solid #E5E7EB;
 }
 
 .movie img {
     height: 148px;
     width: 100px;
+    object-fit: cover;
     margin: 22px 21px 21px 0;
     border-radius: 2.5px;
 }
